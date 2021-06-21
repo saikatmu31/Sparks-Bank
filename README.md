@@ -20,17 +20,19 @@ Website Link :-  https://sparksaikatbank.web.app/
 # 📷 Some Images Of The Website
 ## Home Page of Spark Bank
 
-![Home Page of Spark Bank] 
+![Home Page of Spark Bank] <img src="https://github.com/saikatmu31/Sparks-Bank/blob/main/images/home.jpg">
 
 
 ## Contact Us Page of Spark Bank
 
-![Contact Us Page of Spark Bank]
+![Contact Us Page of Spark Bank] <img src="https://github.com/saikatmu31/Sparks-Bank/blob/main/images/contactus.jpg">
 
 
 ## Fund Transfer Page of Spark Bank
 
-![Fund Transfer Page of Spark Bank]
+![Fund Transfer Page of Spark Bank] <img src="https://github.com/saikatmu31/Sparks-Bank/blob/main/images/transact1.jpg">
+<img src="https://github.com/saikatmu31/Sparks-Bank/blob/main/images/transact2.jpg">
+<img src="https://github.com/saikatmu31/Sparks-Bank/blob/main/images/transact3.jpg">
 
 # 👩🏻‍💻 Author 
 - [Saikat Mukherjee](https://www.linkedin.com/in/saikat-mukherjee-2a925b1b7/)
